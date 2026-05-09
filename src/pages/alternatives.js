@@ -157,6 +157,7 @@ const tableData = [
     permissiveOpenSource: false,
     copyleftOpenSource: true,
     cloudHosting: true,
+    cloudHostingLocation: "EU",
     selfHosting: true,
   },
   {
