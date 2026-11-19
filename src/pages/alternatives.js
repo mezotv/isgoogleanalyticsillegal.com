@@ -155,10 +155,10 @@ const tableData = [
     description:
       "Lightweight Privacy-first Analytics for Developers",
     permissiveOpenSource: false,
-    copyleftOpenSource: true,
+    copyleftOpenSource: false,
     cloudHosting: true,
     cloudHostingLocation: "EU",
-    selfHosting: true,
+    selfHosting: false,
   },
   {
     company: "TelemetryDeck",
